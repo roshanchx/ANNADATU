@@ -1,0 +1,3 @@
+DONOR-DEMO|Donor|Haldirams CP Flagship|demo-donor@example.com|9999000001|Connaught Place, New Delhi|Restaurant
+DONOR-MESS|Donor|IIT Delhi Mess Committee|mess@example.com|9999000002|Hauz Khas, New Delhi|Hostel Mess
+ACCEPTOR-DEMO|Acceptor|Robin Hood Army Delhi|demo-ngo@example.com|9999000003|Connaught Place, New Delhi|Registered NGO

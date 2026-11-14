@@ -1,0 +1,2 @@
+FOOD-DEMO-1|DONOR-DEMO|Fresh Idli and Sandwich Combo|Cooked|PureVeg|8|32|4|Keep covered; collect promptly.|1794677099|Available
+FOOD-DEMO-2|DONOR-MESS|Rajma Chawal|Cooked|PureVeg|12|40|2|Packed in food-grade containers.|1794677099|Available
